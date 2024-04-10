@@ -1,0 +1,12 @@
+div{
+    height: 200px;
+    width: 200px;
+    color: rgb(69, 13, 199);
+    border-radius: 5px;
+    border-style: solid;
+    background-image: url("dog.jpg");
+    background-size: cover;
+    position: fixed;
+    right: 0px;
+    
+}

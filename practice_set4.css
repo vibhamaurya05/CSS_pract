@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+#content{
+    height: 547px;
+    width: 1339px;
+    background-color: rgb(233, 247, 112);
+    padding:5px;   
+    
+}
+
+#navbar{
+    
+    height: 50px;
+    background-color: #0f1111;
+    
+}
+#logo{
+    color: yellow;
+    font-size: 25px;
+}
+a {
+    margin-right: 200px;
+    text-decoration: none;
+}
+button{
+    background-color: yellow;
+}
+.box1{
+    width: 100px;
+    height: 100px;
+    margin: 6px;
+    margin-top: 0px;
+    background-color: rgb(255, 0, 0, 0.5);
+    border-color: rgb(4, 4, 5);
+    border-style: solid;
+    
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    margin: 6px;
+    background-color: rgb(0, 255, 0, 0.5);
+    border-color: rgb(4, 4, 5);
+    border-style: solid;
+    
+}
+.box3{
+    width: 100px;
+    height: 100px;
+    margin: 6px;
+    background-color: rgb(0, 0, 255, 0.5);
+    border-color: rgb(4, 4, 5);
+    border-style: solid;
+    
+}
+footer{
+    background-color: #0f1111;
+    text-align: center;
+}

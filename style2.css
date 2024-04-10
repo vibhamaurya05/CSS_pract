@@ -1,0 +1,19 @@
+div {
+    background-color: pink;
+    display: inline;
+    
+}
+button{
+    display: inline-block;
+}
+.example{
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: rgba(255, 0 ,0, 0.5);
+    border-style: solid;
+    border-color: white;
+    border-radius: 8px;
+}

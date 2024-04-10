@@ -1,0 +1,12 @@
+div{
+    height: 100px;
+    width: 100px;
+    border: 5px solid skyblue;
+    border-left: 5px blue solid;
+    border-radius: 50%;
+    animation: spin 1s ease-in-out 0s infinite normal ;
+}
+@keyframes spin{
+    from {transform: rotate(0deg);}
+    to {transform: rotate(360deg);}
+}
